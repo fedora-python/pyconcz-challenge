@@ -12,6 +12,7 @@ The list of banned words is as follows:
 * while
 * reduce
 * eval
+* __ *(two underscores)*
 
 **Input:** A list of numbers.
 

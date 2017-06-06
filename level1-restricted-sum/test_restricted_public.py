@@ -6,7 +6,7 @@ testdata = [
     [1, 1, 1]
 ]
 
-forbidden_words = ['sum', 'import', 'for', 'while', 'reduce', 'eval']
+forbidden_words = ['sum', 'import', 'for', 'while', 'reduce', 'eval', '__']
 
 
 @pytest.mark.parametrize("nums", testdata)
