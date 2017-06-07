@@ -1,6 +1,6 @@
 # Red Hat–PyCon CZ Coding Challenge
 
-We have prepared 3 programming problems for you to solve so you can win a prize and maybe even a job at Red Hat!
+We have prepared 3 programming problems for you to solve. By competing, you may get a job at Red Hat, and the first three people with the most solved problems (ideally all three) win a prize!
 
 ## Rules
 
