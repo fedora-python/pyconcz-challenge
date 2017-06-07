@@ -6,7 +6,7 @@ We have prepared 3 programming problems for you to solve so you can win a prize 
 
 To solve the 3 problems you may use *only* the Python 3 programming language and it's standard library, __no external libraries are allowed__. Your script must be compatible with Python 3.6 and also finish within 2 minutes on a reasonably powerful machine.
 
-**Submit** your scripts through our [web interface](https://pyconcz.fedoralovespython.org/) before the **deadline on Friday at 14:00h**.
+**Submit** your scripts through our [web interface](https://pyconcz.fedoralovespython.org/) before the **deadline on Friday at 14:00**.
 
 We have prepared tests which you can use to verify that your solution is correct. However, after submission your script will be checked by more rigorous private tests to make it infeasible to exploit them.
 
