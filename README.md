@@ -20,7 +20,7 @@ We have prepared tests which you can use to verify that your solution is correct
 
 As a first step, clone this repository to your computer:
 
-    $ git clone git@github.com:fedora-python/pyconcz-challenge.git
+    $ git clone https://github.com/fedora-python/pyconcz-challenge.git
 
 Inside the repository you will find three directories corresponding to the three problems, each containing a README for the problem, a file into which you should write your solution and two test files.
 
