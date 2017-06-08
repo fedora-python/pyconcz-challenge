@@ -32,4 +32,4 @@ Beware that the tests do not check whether your script terminates within the all
 
 ## Contact
 
-If you have any questions, contact us at python-maint@redhat.com or at the Red Hat booth.
+If you have any questions, contact us at the Red Hat booth or at python-maint@redhat.com.
